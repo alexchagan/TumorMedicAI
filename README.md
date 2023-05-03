@@ -14,8 +14,10 @@
 ## About The Project
  
 An AI image classification project for detecting tumor MRI images. <br />
-The classifier and endpoint were created using the SageMaker AWS service and documented in the notebook file. <br />
-The backend makes requests to an AWS API Gateway which uses a Lambda function to invoke the endpoint.
+The data was downloaded from the following kaggle dataset: https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor <br />
+Data was stored in a S3 bucket. <br />
+The classifier and endpoint configuration were created using the SageMaker AWS service and documented in the notebook file. <br />
+The backend sends requests to an Amazon API Gateway which calls a Lambda function to invoke the endpoint.
 
 ### Usage
 

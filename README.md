@@ -25,7 +25,7 @@ This project was made for presentation purposes only since it relies on my perso
 <!-- CREDITS -->
 ## Credits
 
-Most of the backend/frontend code is open source written by Patrik Szepesi with small modifications. <br />
+Most of the web application code is open source written by Patrik Szepesi with small modifications. <br />
 The usage and publishment of the code was approved by the author. 
 
 <!-- CONTACT -->

@@ -7,9 +7,6 @@
  
 ### Tumor Detection AI 
 
-
-![Image10](https://user-images.githubusercontent.com/44925899/235746366-3271d9cb-ddb8-4143-bc4f-9625646de109.jpg)
-
 ![2023-05-03 21-14-52](https://user-images.githubusercontent.com/44925899/236008091-43191326-95e3-402a-a041-97b434093af8.gif)
 
 

@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
  
-An AI image classification project for detecting tumor in MRI images. <br />
+An AI image classification project for detecting tumor MRI images. <br />
 The classifier and endpoint were created using the SageMaker AWS service and documented in the notebook file. <br />
 The backend makes requests to an AWS API Gateway which uses a Lambda function to invoke the endpoint.
 

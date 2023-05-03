@@ -13,11 +13,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
  
-An AI image classification project for detecting tumor MRI images. <br />
+An AI image classification project for classifying tumor and non-tumor brain MRI images. <br />
 The data was downloaded from the following kaggle dataset: https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor <br />
 Data was stored in a S3 bucket. <br />
 The classifier and endpoint configuration were created using the SageMaker AWS service and documented in the notebook file. <br />
 The backend sends requests to an Amazon API Gateway which calls a Lambda function to invoke the endpoint.
+
+### Model Architecture
+The model architecture used for training, validation and inference is a pretrained EfficientNetB3.
+
+![Illustration-of-the-EffecientNet-B3-architecture-10-3646-million-weights-IRC-means](https://user-images.githubusercontent.com/44925899/236045251-8f154f49-c701-4014-9b5d-abfda0d4c5fb.png)
 
 ### Usage
 

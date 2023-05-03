@@ -5,43 +5,35 @@
 <!-- PROJECT LOGO -->
 
  
-### Tumor Detection AI Backend
+### Tumor Detection AI 
 
 
 ![Image10](https://user-images.githubusercontent.com/44925899/235746366-3271d9cb-ddb8-4143-bc4f-9625646de109.jpg)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A Backend infrastructure for an AI image classification project for detecting tumor in MRI images. <br />
+ 
+An AI image classification project for detecting tumor in MRI images. <br />
 The classifier and endpoint were created using the SageMaker AWS service and documented in the notebook file. <br />
 The backend makes requests to an AWS API Gateway which uses a Lambda function to invoke the endpoint.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Usage
 
-### Installation
-
-1. git clone or download zip
-2. Navigate to root directory
-3. Create .env file in root directory
-4. Add the following to the .env file:
-   ```
-   PORT=8000
-   DATABASE=enterYourMongoDBStringWithUsernameAndPassword
-   JWT_SECRET=LKAJSDFHJKS"+!%SDFG345+!%/GSDFGSDFG345
-   ```
-5. Run the command ```npm install``` in your terminal from the root
-6. Run the command ```npm run start```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project was made for presentation purposes only since it relies on my personal AWS services.  
 
 
+<!-- CREDITS -->
+## Credits
+
+Most of the backend/frontend code is open source written by Patrik Szepesi with small modifications. <br />
+The usage and publishment of the code was approved by the author. 
 
 <!-- CONTACT -->
 ## Contact
 
 Alex Chagan  -- alexchagan95@gmail.com
 
-Project Link: [https://github.com/alexchagan/sports-images-classifier](https://github.com/alexchagan/sports-images-classifier)
+Project Link: [https://github.com/alexchagan/TumorMedicAI](https://github.com/alexchagan/TumorMedicAI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
